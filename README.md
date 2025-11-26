@@ -78,7 +78,13 @@ To train the model:
 
 ```
 python image-classification-using-advance-preprocessing.ipynb
+
 ```
+```
+python image-classification.ipynb
+
+```
+
 
 ### **Training Details**
 - Optimizer: Adam  
@@ -101,23 +107,6 @@ The project evaluates the model using:
 
 ---
 
-## 📁 **7. Project Structure**
-```
-├── dataset/
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── train.py
-│   ├── evaluate.py
-│
-├── saved_model/
-│   └── model.pth
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## 🔧 **8. Installation**
 Install all dependencies:
@@ -130,7 +119,8 @@ pip install -r requirements.txt
 
 ## 🧪 **9. Evaluation**
 ```
-python evaluate.py
+python image-classification-using-advance-preprocessing.ipynb
+
 ```
 
 Outputs:
