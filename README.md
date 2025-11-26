@@ -77,7 +77,7 @@ dataset/
 To train the model:
 
 ```
-python train.py
+python image-classification-using-advance-preprocessing.ipynb
 ```
 
 ### **Training Details**
